@@ -1,6 +1,6 @@
 
 
-**WeCross**是由微众银行自主研发并完全开源的区块链跨链协作平台，致力于促进跨行业、机构和地域的跨区块链信任传递和商业合作。WeCross不局限于满足同构区块链平行扩展后的可信数据交换需求，还进一步探索解决异构区块链之间因底层架构、数据结构、接口协议、安全机制等多维异构性导致无法互联互通问题的有效方案。
+**WeCross**是由未链自主研发并完全开源的区块链跨链协作平台，致力于促进跨行业、机构和地域的跨区块链信任传递和商业合作。WeCross不局限于满足同构区块链平行扩展后的可信数据交换需求，还进一步探索解决异构区块链之间因底层架构、数据结构、接口协议、安全机制等多维异构性导致无法互联互通问题的有效方案。
 
 [![CodeFactor](https://www.codefactor.io/repository/github/webankfintech/wecross/badge)](https://www.codefactor.io/repository/github/webankfintech/wecross) [![Build Status](https://travis-ci.org/WeBankFinTech/WeCross.svg?branch=dev)](https://travis-ci.org/WeBankFinTech/WeCross) [![codecov](https://codecov.io/gh/WeBankFinTech/WeCross/branch/dev/graph/badge.svg)](https://codecov.io/gh/WeBankFinTech/WeCross) [![Latest release](https://img.shields.io/github/release/WeBankFinTech/WeCross.svg)](https://github.com/WeBankFinTech/WeCross/releases/latest)
  ![](https://img.shields.io/github/license/WeBankFinTech/WeCross)
@@ -53,12 +53,3 @@
 - [FAQ](https://wecross.readthedocs.io/zh_CN/latest/docs/faq/faq.html)
 - [社区](https://wecross.readthedocs.io/zh_CN/latest/docs/community/community.html)
 
-## 项目贡献
-
-- 点亮我们的小星星(点击项目左上方Star按钮)。
-- 提交代码(Pull requests)，参考我们的[代码贡献流程](CONTRIBUTING.md)。
-- [提问和提交BUG](https://github.com/WeBankFinTech/WeCross/issues)。
-
-## 社区
-
-联系我们：wecross@webank.com
